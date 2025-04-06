@@ -11,6 +11,7 @@
 
 #include <iostream> //Importing necessary templates
 #include "Airplane.hpp" //Importing Airplane
+#include "Airplane.cpp"
 using namespace std;
 
 int main()
